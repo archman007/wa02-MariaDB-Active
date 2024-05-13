@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C77448DF-3C87-4D76-A66A-D1CDE0704381}|">
+  <MonoDevelop.Ide.ItemProperties.wa02 PreferredExecutionTarget="brave" />
+  <MonoDevelop.Ide.ItemProperties.wa02.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wa02/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="wa02/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="wa02" expanded="True">
+            <Node name="wa02" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

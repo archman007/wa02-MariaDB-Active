@@ -1,0 +1,6 @@
+part=SRRJ-A
+version=23.0
+build=8839
+prod=MariaDB Data Provider 2023
+licpath=./
+licname=System.Data.CData.MariaDB
