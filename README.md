@@ -1,1 +1,1 @@
-This application enables the MariaDB and Entity Framework
+This ASP .NET application enables the MariaDB and Entity Framework
